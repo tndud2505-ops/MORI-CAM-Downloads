@@ -4,4 +4,4 @@
 
 [Google Play에서 모리캠 설치](https://play.google.com/store/apps/details?id=com.moricam.app&hl=ko&gl=KR)
 
-이 저장소의 [Releases](../../releases)에는 이전 테스트 APK 배포 이력이 있습니다.
+이 저장소의 [Releases](https://github.com/tndud2505-ops/MORI-CAM-Downloads/releases)에는 이전 테스트 APK 배포 이력이 있습니다.
